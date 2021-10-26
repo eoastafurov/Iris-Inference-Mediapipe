@@ -2,7 +2,7 @@
 
 Feel free to use this code in your purposes
 
-Note: a newer version of iris model build can be found here: https://hub.docker.com
+Note: a newer version of iris model build can be found here: https://hub.docker.com/u/eoastafurov1
 
 ----
 ##### All face landmarks:
